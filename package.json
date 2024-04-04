@@ -1,5 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "sususaiasusubendera",
+	"description": "Learn back end",
+	"keywords": ["freecodecamp", "learn", "back end"],
+	"license":"UNLICENSED",
+	"version": "1.0",
+	
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +16,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"author": "sususaiasusubendera"
+	}
 }
